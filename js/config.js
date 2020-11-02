@@ -325,6 +325,14 @@ const CONFIG = {
        icon: 'circle',
        quickLaunch: false,
      },
+     {
+      name: 'Help',
+      key: 'help',
+      url: 'https://github.com/Ozencb/tilde-enhanced',
+      color: 'linear-gradient(294deg, #FF0000, #FF0000)',
+      icon: 'circle',
+      quickLaunch: false,
+    },
    ],
 
   /**

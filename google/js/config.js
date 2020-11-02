@@ -27,15 +27,10 @@ const CONFIG = {
    */
    commands: [
      {
-       name: 'Bing',
-       key: '*',
-       url: 'https://www.bing.com',
-       search: '/search?q={}'
-     },
-     {
        name: 'Google',
-       key: 'go',
-       url: 'https://hyper.re/google/',
+       key: '*',
+       url: 'https://www.google.com',
+       search: '/search?q={}'
      },
      {
        category: 'General',

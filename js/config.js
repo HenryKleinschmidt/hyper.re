@@ -74,6 +74,7 @@ const CONFIG = {
        name: 'Proton',
        key: 'pr',
        url: 'https://beta.protonmail.com',
+       search: '/all-mail?keyword={}',
        color: 'linear-gradient(195deg, #262A33, #636C82)',
        icon: 'circle',
        quickLaunch: true,
@@ -411,7 +412,7 @@ const CONFIG = {
    * The delimiter between a command key and your search query. For example,
    * to search GitHub for potatoes, you'd type "g:potatoes".
    */
-  searchDelimiter: ':',
+  searchDelimiter: ' ',
 
   /**
    * The delimiter between a command key and a path. For example, you'd type

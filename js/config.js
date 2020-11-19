@@ -192,15 +192,6 @@ const CONFIG = {
        quickLaunch: false,
      },
      {
-      category: 'Self Hosted',
-      name: 'Cloud',
-      key: 'cl',
-      url: 'https://cloud.hyper.re',
-      color: 'linear-gradient(73deg, #2266BB, #4E90DB)',
-      icon: 'circle',
-      quickLaunch: false,
-    },
-     {
        category: 'Self Hosted',
        name: 'Data',
        key: 'da',
@@ -209,6 +200,15 @@ const CONFIG = {
        icon: 'circle',
        quickLaunch: false,
      },
+     {
+      category: 'Self Hosted',
+      name: 'Drive',
+      key: 'dr',
+      url: 'https://drive.hyper.re',
+      color: 'linear-gradient(73deg, #2266BB, #4E90DB)',
+      icon: 'circle',
+      quickLaunch: false,
+    },
      {
        category: 'Self Hosted',
        name: 'Jellyfin',

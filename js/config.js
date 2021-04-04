@@ -23,14 +23,20 @@ const CONFIG = {
      url: 'https://duckduckgo.com',
      search: '/?q={}}'
    },
+   {
+       name: 'Startpage',
+       key: '*',
+       url: 'https://www.startpage.com',
+       search: '/do/search?query={}'
+     },
 
    */
    commands: [
      {
-       name: 'Google',
+       name: 'Startpage',
        key: '*',
-       url: 'https://www.google.com',
-       search: '/search?q={}'
+       url: 'https://www.startpage.com',
+       search: '/do/search?query={}'
      },
      {
        category: 'General',

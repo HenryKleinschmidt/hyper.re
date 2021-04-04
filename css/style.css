@@ -1,4 +1,16 @@
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
+#my_video {
+  position: fixed;
+  object-fit: cover;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: 100%;
+  height: auto;
+  z-index: -100;
+  transform: translate(-50%, -50%);
+}
 html {
   line-height: 1.15; /* 1 */
   -webkit-text-size-adjust: 100%; /* 2 */
@@ -253,6 +265,15 @@ a:focus {
 }
 
 .clock {
+  /*
+  background-color: #0E0E0E;
+  padding-top: 1%;
+  padding-bottom: .5%;
+  padding-left: 2%;
+  padding-right: 2%;
+  border-radius: 7px;
+  */
+  text-shadow: 2px 2px 6px #000000;
   display: block;
   margin-top: -0.06rem;
   font-size: 4rem;

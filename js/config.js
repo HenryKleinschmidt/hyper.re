@@ -33,10 +33,10 @@ const CONFIG = {
    */
    commands: [
      {
-       name: 'Startpage',
+       name: 'Google',
        key: '*',
-       url: 'https://www.startpage.com',
-       search: '/do/search?query={}'
+       url: 'https://www.google.com',
+       search: '/search?q={}'
      },
      {
        category: 'General',

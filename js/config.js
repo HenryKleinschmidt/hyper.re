@@ -302,7 +302,7 @@ const CONFIG = {
      {
       name: 'Help',
       key: 'help',
-      url: 'https://github.com/Ozencb/tilde-enhanced',
+      url: 'https://github.com/HenryKleinschmidt/hyper.re',
       color: 'linear-gradient(294deg, #FF0000, #FF0000)',
       icon: 'circle',
       quickLaunch: false,

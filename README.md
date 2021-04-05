@@ -1,7 +1,7 @@
 
 
 # hyper Tilde
-
+Chicago Background Video Credit: u/White-Wolf-Video on Reddit
 Based on [Ozencb](https://github.com/Ozencb)'s [Tilde Enhanced](https://github.com/Ozencb/tilde-enhanced).
 
 This is just a rebrand with my own bookmarks

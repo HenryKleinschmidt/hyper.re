@@ -217,6 +217,16 @@ const CONFIG = {
      },
      {
        category: 'Miscellaneous',
+       name: 'GitHub',
+       key: 'gi',
+       url: 'https://github.com/',
+       search: '/search?q={}',
+       color: 'linear-gradient(375deg, #302F2F, #24282E)',
+       icon: 'circle',
+       quickLaunch: false,
+     },
+     {
+       category: 'Miscellaneous',
        name: '1337x',
        key: '13',
        url: 'https://1337x.to',

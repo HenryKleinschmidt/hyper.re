@@ -216,7 +216,6 @@ const CONFIG = {
        quickLaunch: false,
      },
      {
-       category: 'Miscellaneous',
        name: 'GitHub',
        key: 'gi',
        url: 'https://github.com/',

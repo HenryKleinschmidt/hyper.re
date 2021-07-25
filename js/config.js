@@ -70,7 +70,7 @@ const CONFIG = {
        category: 'General',
        name: 'Proton',
        key: 'pr',
-       url: 'https://beta.protonmail.com',
+       url: 'https://mail.protonmail.com',
        search: '/all-mail?keyword={}',
        color: 'linear-gradient(195deg, #262A33, #636C82)',
        icon: 'circle',

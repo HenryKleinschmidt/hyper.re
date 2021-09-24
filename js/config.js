@@ -33,10 +33,10 @@ const CONFIG = {
    */
    commands: [
      {
-       name: 'Google',
-       key: '*',
-       url: 'https://www.google.com',
-       search: '/search?q={}'
+      name: 'DuckDuckGo',
+      key: '*',
+      url: 'https://duckduckgo.com',
+      search: '/?q={}'
      },
      {
        category: 'General',
